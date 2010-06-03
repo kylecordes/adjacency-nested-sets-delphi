@@ -1,0 +1,12 @@
+syntax: glob
+*.exe
+.git
+*.local
+*.res
+*.dcu
+*.ini
+__history
+*.identcache
+*.~*
+*.*~
+*.bak
